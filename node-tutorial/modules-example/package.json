@@ -1,0 +1,10 @@
+{
+  "name": "modules_example",
+  "version": "0.0.0",
+  "description": "modules-example",
+  "main": "app.js",
+  "author": {
+    "name": "Dan",
+    "email": ""
+  }
+}
